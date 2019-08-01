@@ -1,0 +1,25 @@
+[29-Sep-2018 11:09:22 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dauconco/testdev.daucon.co.zw/s7/backup.php on line 16
+[29-Sep-2018 11:09:22 UTC] PHP Warning:  mysqli::select_db(): Couldn't fetch mysqli in /home/dauconco/testdev.daucon.co.zw/s7/backup.php on line 17
+[29-Sep-2018 11:09:22 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/dauconco/testdev.daucon.co.zw/s7/backup.php on line 18
+[29-Sep-2018 11:09:22 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/dauconco/testdev.daucon.co.zw/s7/backup.php on line 20
+[29-Sep-2018 11:09:22 UTC] PHP Fatal error:  Call to a member function fetch_row() on null in /home/dauconco/testdev.daucon.co.zw/s7/backup.php on line 21
+[29-Sep-2018 11:09:46 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dauconco/testdev.daucon.co.zw/s7/backup.php on line 16
+[29-Sep-2018 11:09:46 UTC] PHP Warning:  mysqli::select_db(): Couldn't fetch mysqli in /home/dauconco/testdev.daucon.co.zw/s7/backup.php on line 17
+[29-Sep-2018 11:09:46 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/dauconco/testdev.daucon.co.zw/s7/backup.php on line 18
+[29-Sep-2018 11:09:46 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/dauconco/testdev.daucon.co.zw/s7/backup.php on line 20
+[29-Sep-2018 11:09:46 UTC] PHP Fatal error:  Call to a member function fetch_row() on null in /home/dauconco/testdev.daucon.co.zw/s7/backup.php on line 21
+[03-Oct-2018 11:51:34 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dauconco/testdev.daucon.co.zw/s7/backup.php on line 16
+[03-Oct-2018 11:51:34 UTC] PHP Warning:  mysqli::select_db(): Couldn't fetch mysqli in /home/dauconco/testdev.daucon.co.zw/s7/backup.php on line 17
+[03-Oct-2018 11:51:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/dauconco/testdev.daucon.co.zw/s7/backup.php on line 18
+[03-Oct-2018 11:51:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/dauconco/testdev.daucon.co.zw/s7/backup.php on line 20
+[03-Oct-2018 11:51:34 UTC] PHP Fatal error:  Call to a member function fetch_row() on null in /home/dauconco/testdev.daucon.co.zw/s7/backup.php on line 21
+[03-Oct-2018 12:24:28 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dauconco/testdev.daucon.co.zw/s7/backup.php on line 16
+[03-Oct-2018 12:24:28 UTC] PHP Warning:  mysqli::select_db(): Couldn't fetch mysqli in /home/dauconco/testdev.daucon.co.zw/s7/backup.php on line 17
+[03-Oct-2018 12:24:28 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/dauconco/testdev.daucon.co.zw/s7/backup.php on line 18
+[03-Oct-2018 12:24:28 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/dauconco/testdev.daucon.co.zw/s7/backup.php on line 20
+[03-Oct-2018 12:24:28 UTC] PHP Fatal error:  Call to a member function fetch_row() on null in /home/dauconco/testdev.daucon.co.zw/s7/backup.php on line 21
+[03-Oct-2018 12:24:33 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dauconco/testdev.daucon.co.zw/s7/backup.php on line 16
+[03-Oct-2018 12:24:33 UTC] PHP Warning:  mysqli::select_db(): Couldn't fetch mysqli in /home/dauconco/testdev.daucon.co.zw/s7/backup.php on line 17
+[03-Oct-2018 12:24:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/dauconco/testdev.daucon.co.zw/s7/backup.php on line 18
+[03-Oct-2018 12:24:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/dauconco/testdev.daucon.co.zw/s7/backup.php on line 20
+[03-Oct-2018 12:24:33 UTC] PHP Fatal error:  Call to a member function fetch_row() on null in /home/dauconco/testdev.daucon.co.zw/s7/backup.php on line 21
